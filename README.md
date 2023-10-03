@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-{{ template "daily-table" .Weathers }}
-{{ formatTime .UpdatedAt }}
+go install https://github.com/huantt/weather-forecast
